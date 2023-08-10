@@ -10,7 +10,7 @@ function App() {
       <div className="App">
       <h2 className="App-header">
         <p>
-          Fib app
+          Fib app version kubernetes
         </p>
         <Link to="/">Home</Link>
         <Link to="/otherpage">Other Page</Link>
